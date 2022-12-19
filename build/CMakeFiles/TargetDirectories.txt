@@ -1,0 +1,10 @@
+/home/kaio/Desktop/RandomX/build/CMakeFiles/randomx.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/randomx-tests.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/randomx-codegen.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/randomx-benchmark.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/edit_cache.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/rebuild_cache.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/list_install_components.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/install.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/install/local.dir
+/home/kaio/Desktop/RandomX/build/CMakeFiles/install/strip.dir
