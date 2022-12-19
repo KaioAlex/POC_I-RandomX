@@ -20,4 +20,4 @@
     
     $ cd /tests
     
-    $ ./rng_protocol <String K> <String H>
+    $ ./rng_protocol {String K} {String H}
